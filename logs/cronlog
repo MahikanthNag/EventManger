@@ -1,0 +1,2 @@
+moist.py:156: SyntaxWarning: name 'crop' is assigned to before global declaration
+  global crop
